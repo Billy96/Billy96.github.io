@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/2020/11/24/hello-world/</loc>
+    
+    <lastmod>2020-11-25T01:42:10.746Z</lastmod>
+    
+    <date>1606198058104</date>
+    <title>Hello World | 万维魔方</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/25/%E6%88%91%E6%98%AFpage/</loc>
+    
+    <lastmod>2020-11-25T01:38:50.467Z</lastmod>
+    
+    <date>1606268330000</date>
+    <title>我是page | 万维魔方</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2020-11-24T06:42:12.416Z</lastmod>
+    
+    <date>1606198829000</date>
+    <title>我的第一篇博客 | 万维魔方</title>
+    
+    <desc></desc>
+  </url>
+  
+</urlset>
