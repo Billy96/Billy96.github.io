@@ -2,75 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/12/03/%E6%96%87%E7%AB%A0666/</loc>
-    
-    <lastmod>2020-12-03T03:00:35.844Z</lastmod>
-    
-    <date>1606964435000</date>
-    <title>文章666 | 万维魔方</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/12/03/%E6%96%87%E7%AB%A0555/</loc>
-    
-    <lastmod>2020-12-03T02:59:47.623Z</lastmod>
-    
-    <date>1606964387000</date>
-    <title>文章555 | 万维魔方</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/12/03/%E6%96%87%E7%AB%A0444/</loc>
-    
-    <lastmod>2020-12-03T02:58:42.109Z</lastmod>
-    
-    <date>1606964322000</date>
-    <title>文章444 | 万维魔方</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/12/03/%E6%96%87%E7%AB%A0333/</loc>
-    
-    <lastmod>2020-12-03T02:52:42.956Z</lastmod>
-    
-    <date>1606963962000</date>
-    <title>文章333 | 万维魔方</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/12/03/%E6%96%87%E7%AB%A0222/</loc>
-    
-    <lastmod>2020-12-03T02:52:21.325Z</lastmod>
-    
-    <date>1606963941000</date>
-    <title>文章222 | 万维魔方</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/12/03/%E6%96%87%E7%AB%A0111/</loc>
-    
-    <lastmod>2020-12-03T02:51:35.570Z</lastmod>
-    
-    <date>1606963895000</date>
-    <title>文章111 | 万维魔方</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
     <loc>http://example.com/2020/11/25/hexo-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
     
-    <lastmod>2020-12-03T02:51:00.691Z</lastmod>
+    <lastmod>2020-12-03T05:31:05.203Z</lastmod>
     
     <date>1606281675000</date>
     <title>hexo 搭建博客 | 万维魔方</title>
