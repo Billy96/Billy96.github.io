@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2020/12/09/%E5%8F%91%E5%B8%83npm%E5%8C%85/</loc>
+    
+    <lastmod>2020-12-09T02:40:50.111Z</lastmod>
+    
+    <date>1607480714000</date>
+    <title>发布npm包 | 万维魔方</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/04/mysql%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2020-12-04T05:57:55.006Z</lastmod>
+    
+    <date>1607061474000</date>
+    <title>mysql相关教程 | 万维魔方</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/12/03/hexo-%E6%B7%BB%E5%8A%A0gitalk%E8%AF%84%E8%AE%BA/</loc>
     
     <lastmod>2020-12-03T14:55:41.711Z</lastmod>
