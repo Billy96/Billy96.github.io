@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2020/12/09/mac%E4%B8%8A%E4%BD%BF%E7%94%A8nginx/</loc>
+    
+    <lastmod>2020-12-09T06:03:50.131Z</lastmod>
+    
+    <date>1607492059000</date>
+    <title>mac上使用nginx | 万维魔方</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/12/09/%E5%8F%91%E5%B8%83npm%E5%8C%85/</loc>
     
     <lastmod>2020-12-09T02:40:50.111Z</lastmod>
